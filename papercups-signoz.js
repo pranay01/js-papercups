@@ -1,4 +1,3 @@
-<script>
 window.Papercups = {
   config: {
     accountId: "2da0a6e1-f314-4827-a61b-3831743d395f",
@@ -25,4 +24,3 @@ window.Papercups = {
     // }
   },
 };
-</script>
