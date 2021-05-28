@@ -26,9 +26,3 @@ window.Papercups = {
   },
 };
 </script>
-<script
-type="text/javascript"
-async
-defer
-src="https://app.papercups.io/widget.js"
-></script>
